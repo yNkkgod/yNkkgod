@@ -22,6 +22,5 @@ I'm a 17 years old developer and  since I was 15. I love to code and figure it o
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-
-### Socials
+<a href='https://docs.python.org/3/' target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/1218597677399408771/1222585637727637588/logo.png?ex=6616c09a&is=66044b9a&hm=76e7b64c4d15acaa9fa8f65422c2dd90cf5d4de996184ebd64108dd878e27ded&" width="36" height="36" alt="Python" / ></a>
 
