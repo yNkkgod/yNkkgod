@@ -11,7 +11,7 @@ I'm a 17 years old developer and  since I was 15. I love to code and figure it o
 * 🚀  I'm currently freelancing for companies as a Full Stack Software Developer
 * 🧠  I'm learning Advanced Python, Unit Tests and C/C++ programming languages
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+* ⚡  My Favorite sport is Bodybuilding
 
 ### Skills
 
